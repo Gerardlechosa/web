@@ -1,0 +1,29 @@
+body{ /*per donar style a tot el body*/
+    background-color: rgb(41, 37, 37); /*Aixo serveix per cambiar el color del fondo*/
+    color: aliceblue; /*Aixo es per cambiar el color de les lletres*/
+    
+}
+
+header{
+    background-color: rgb(30, 125, 214); /*Aixo serveix per cambiar el color del fondo*/
+    padding: 1%; /*aixo es per dondar espai al voltant*/
+}
+
+footer{
+    background-color: rgb(30, 125, 214); /*Aixo serveix per cambiar el color del fondo*/
+    padding: 3%; /*aixo es per dondar espai al voltant*/
+    margin-top: 22%;
+}
+
+.container{
+    margin-top: 1%; /*per a donar espai adalt*/
+}
+
+img {
+    float: left; 
+    margin: 5px;
+}
+p {
+    text-align: justify;
+}
+
